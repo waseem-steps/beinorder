@@ -1,0 +1,1 @@
+{{ App\Http\Controllers\CountryController::getCurrency(2) }}
